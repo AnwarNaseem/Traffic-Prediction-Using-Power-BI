@@ -32,7 +32,6 @@ This project involved creating an interactive Power BI dashboard to analyze traf
 
 #### **Tools**  
 - **Power BI:** For data transformation and dashboard creation.  
-- **DAX:** For custom calculations and advanced insights.  
 
 #### **Outcome**  
 The dashboard provided actionable insights into traffic patterns, enabling better understanding of vehicle distribution, peak traffic times, and overall traffic conditions, supporting data-driven traffic management decisions.  
