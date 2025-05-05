@@ -35,3 +35,8 @@ This project involved creating an interactive Power BI dashboard to analyze traf
 
 #### **Outcome**  
 The dashboard provided actionable insights into traffic patterns, enabling better understanding of vehicle distribution, peak traffic times, and overall traffic conditions, supporting data-driven traffic management decisions.  
+
+![Traffic prediction dashboard](https://github.com/user-attachments/assets/2f762666-9a9f-45a8-8827-b1e87308560c)
+
+![Traffic prediction dashboard1](https://github.com/user-attachments/assets/a95bc129-608b-4f5e-af76-5f7b9dd0b0b3)
+
